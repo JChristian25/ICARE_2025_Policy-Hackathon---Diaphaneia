@@ -252,13 +252,6 @@ The DBM should issue a Joint Circular/Memorandum that legally requires all LGUs 
  Mandate that all LGU infrastructure projects funded by national transfers (like the LGSF) submit all procurement and project monitoring data (including geo-tagged completion photos) to a centralized DBM-managed public dashboard.
 
  DBM budget guidelines should provide a funding bias toward maintenance, rehabilitation, and climate-resilient upgrades ("Preservation CAPEX") in regions where the technical asset quality is rated "Fair" or "Poor."
-### 📈 Key Metrics
-
-| Metric | Value | Impact |
-|--------|-------|--------|
-| Data Points Analyzed | X,XXX | Comprehensive coverage |
-| Accuracy | XX% | High reliability |
-| Policy Recommendations | X | Actionable insights |
 
 ### 🎯 Expected Outcomes
 
