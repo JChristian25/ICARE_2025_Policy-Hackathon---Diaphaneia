@@ -12,16 +12,6 @@
 
 ---
 
-## 📋 Overview
-
-> A short summary of your policy analytics solution
-
-* 🔍 **Issue**: The accountability or anti-corruption issue you're addressing
-* 📊 **Data Role**: The role of data in your proposed solution
-* ✨ **Outcome**: What your tool, model, or analysis accomplishes
-
----
-
 ## 👥 Team Members
 
 | Name | Role | GitHub |
@@ -221,7 +211,6 @@ pip install -r requirements.txt
 </tr>
 </table>
 
-### 📚 Supplemental Public Data (If Used)
 
 > ⚠️ **Important**: All supplemental data MUST be cited here and in visualizations.
 
@@ -232,13 +221,6 @@ pip install -r requirements.txt
 | **PSA** | Philippine Statistics Authority | [psa.gov.ph](https://psa.gov.ph) | Open Data |
 | **COA** | Commission on Audit | [coa.gov.ph](https://coa.gov.ph) | Public Domain |
 | **DBM** | Department of Budget and Management | [dbm.gov.ph](https://dbm.gov.ph) | Open Data |
-
-#### 🌍 International Organizations
-
-| Source | Description | Link | License |
-|--------|-------------|------|---------|
-| **World Bank** | Development indicators | [worldbank.org](https://data.worldbank.org) | CC-BY 4.0 |
-| **UNDP** | Human Development Reports | [undp.org](https://hdr.undp.org) | Open Data |
 
 > ✅ **Data Compliance**: No personal, scraped, hacked, or illegally obtained data was used, per ICARE 2025 rules.
 
@@ -318,19 +300,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * **ICARE 2025 Organizing Committee** - For providing the dataset and competition framework
 * **Mentors and Advisors** - For guidance and support
-* **Data Providers** - PSA, ICARE Dataset
+* **Data Providers** - PSA, ICARE Dataset, Reid Foundation, BusinessWorld Online, Calimbahin C.A (2025), Construction Sector Transparency Initiative
 
 ---
 
-## 📧 Contact
-
-For questions or collaboration opportunities:
-
-* 📧 Email: team@example.com
-* 💼 LinkedIn: [Team LinkedIn](https://linkedin.com/company/yourteam)
-* 🐦 Twitter: [@yourteam](https://twitter.com/yourteam)
-
----
 
 <div align="center">
 
