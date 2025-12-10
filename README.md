@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎯 Project Title
+# 🎯 Polytics
 
-*A concise, descriptive title for your policy analytics solution.*
+*Analytics Interpreted to Policy*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/yourorg/yourrepo)
 [![Python](https://img.shields.io/badge/Python-3.8+-green?style=flat&logo=python)](https://www.python.org/)
@@ -30,7 +30,7 @@
 | **Cristian James Cruz** | Student | [@Cristian](https://github.com/CJ-Zurc) |
 | **Jerwin Baron Vitales** | Student | [@Jerwin](https://github.com/username3) |
 | **Jim Guitierrez** | Mentor | [@N/A](https://github.com/username4) |
-| **John Christian Linaban** | Student | [@JohnC](https://github.com/username4) |
+| **John Christian Linaban** | Student | [@JohnC](https://github.com/JChristian25) |
 ---
 
 ## 🎯 Policy Overview
@@ -41,17 +41,33 @@
 <summary><b>Click to expand policy details</b></summary>
 
 #### 🔴 Corruption-Related Issue
-* What corruption-related issue are you examining?
+* **Main problem:** Systematic misallocation and opaque awarding of public infrastructure projects (favoring certain localities or contractors), resulting in geographic bias, patronage, and occasional ghost or padded projects.
+
+* **How it appears:** Concentration of projects and budget outlays in politically-favored areas, weak needs-based justification, inconsistent procurement records, and limited public visibility into project selection and spending.
+
+* **Consequences:** Waste and diversion of public funds, poor-quality or unnecessary infrastructure, widened urban–rural inequality, reduced public trust, and weakened service delivery.
+
+* **Evidence to track:** Project locations, approved budgets vs. actual spending, procurement winners and timelines, contract modifications, and implementation/completion records.
 
 #### ⚡ Priority
-* Why is it a priority?
+* **Why this matters:** Infrastructure spending is large and directly affects public services and development; misallocation quickly amplifies inequality and erodes citizen trust in government.
+
+* **Immediate impact:** Equitable, needs-based project allocation improves access to basic services in rural and underserved areas and prevents large-scale waste of taxpayer money.
+
+* **Policy relevance:** Transparent, data-driven oversight enables the Commission on Audit, DBM, DPWH, and LGUs to detect irregularities, enforce accountability, and prioritize projects by demonstrated need.
+
+* **Expected benefits:** Reduced corruption risk, better-targeted investments, measurable improvements in rural service coverage, and clearer evidence for reform and budget decisions.
 
 #### 🏢 Stakeholders
 * Which sectors or stakeholders are affected?
+Department of Public Works and Highways(DPWH)
+Local Government Units (LGU's)
+Comission of Audit (COA)
+Department of Budget and Management (DBM)
 
 #### 📈 Reform Support
 * What reform or decision can your data-driven insights support?
-
+    Our data will support transparency by giving equitable access to infrastructure projects, allocating to not only in urban areas but in rural areas as well. Also, it will support a needs-based approval of projects justifying responsible spending of public funds. 
 </details>
 
 ---
@@ -62,10 +78,8 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerBI]()
+![Power BI](https://img.shields.io/badge/Power%20BI-Data-brightgreen?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Office-1DBF73?style=for-the-badge&logo=microsoft-excel&logoColor=wh`ite)
 </div>
 
 ### 📚 Libraries & Tools
@@ -110,9 +124,7 @@ graph LR
 * 📉 Distribution analysis
 
 ### 4️⃣ Statistical / Analytical Methods
-* 🔗 Correlation analysis
-* 📐 Chi-square / t-tests (if used)
-* 🤖 Regression or clustering (if applicable)
+* 🤖 Linrear Regression
 
 ### 5️⃣ Modeling or Insight Extraction
 * 🎯 Key trends and their interpretations
@@ -124,9 +136,11 @@ graph LR
 
 ---
 
-## 💡 Insights and Analyses
+## 💡 Insights and Key Findings 
 
-### 🔑 Key Findings
+    After implementing statistical treatment it shows that a a positive linear relationship between average population and average project count by region. This means that, in general, regions with larger populations tend to receive more projects
+
+    Evidence shows that corruption absorbs a significant share of infrastructure spending, undermining public trust and weakening project outcomes.
 
 > Highlight your most important findings
 
@@ -236,7 +250,13 @@ pip install -r requirements.txt
 ---
 
 ## 📊 Results and Impact
+The DBM should issue a Joint Circular/Memorandum that legally requires all LGUs and National Agencies to allocate a protected minimum percentage of their discretionary budget to the combined sectors of Health and Education.
 
+ Formally integrate a Population-Weighted Infrastructure Needs Index (P-WII) into the Budget Call and the Three-Year Rolling Infrastructure Program (TRIP) review process.
+
+ Mandate that all LGU infrastructure projects funded by national transfers (like the LGSF) submit all procurement and project monitoring data (including geo-tagged completion photos) to a centralized DBM-managed public dashboard.
+
+ DBM budget guidelines should provide a funding bias toward maintenance, rehabilitation, and climate-resilient upgrades ("Preservation CAPEX") in regions where the technical asset quality is rated "Fair" or "Poor."
 ### 📈 Key Metrics
 
 | Metric | Value | Impact |
@@ -310,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * **ICARE 2025 Organizing Committee** - For providing the dataset and competition framework
 * **Mentors and Advisors** - For guidance and support
-* **Data Providers** - For making public data accessible
+* **Data Providers** - PSA, ICARE Dataset
 
 ---
 
@@ -326,7 +346,7 @@ For questions or collaboration opportunities:
 
 <div align="center">
 
-**Made with ❤️ by [Your Team Name]**
+**Made with ❤️ by [Diaphaneia]**
 
 ⭐ Star this repository if you find it helpful!
 
