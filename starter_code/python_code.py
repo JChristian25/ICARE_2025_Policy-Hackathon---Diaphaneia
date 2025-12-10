@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load datasets
-d1 = pd.read_csv("data/flood_control/Sumbong_FloodControl.csv")
+d1 = pd.read_csv("data/sumbong_flood_control/Sumbong_FloodControl.csv")
 d2 = pd.read_csv("data/comelec_fiscal/COMELEC_Fiscal.csv")
 
 # Basic summaries
