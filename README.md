@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Polytics
+# 🎯 Enhancing the Equitability and Transparency Through Evidence Based Allocation Framework (EVAF)
 
 *Analytics Interpreted to Policy*
 
@@ -150,11 +150,6 @@ graph LR
 * ⚠️ **Limitations**: Considerations and constraints
 
 <div align="center">
-
-### 📊 Sample Visualization
-
-![Analysis Dashboard](visualizations/dashboard.png)
-*Caption: Description of your main visualization*
 
 </div>
 
